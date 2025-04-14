@@ -5,7 +5,7 @@
     <sources/>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
       <useAdvancedOptions>false</useAdvancedOptions>
-      <file>$img1</file>
+      <file>{input_file}</file>
       <copyMetadata>true</copyMetadata>
       <bandNames/>
       <pixelRegion>0,0,10980,10980</pixelRegion>
@@ -22,7 +22,7 @@
       <tiePointGrids/>
       <region>0,0,0,0</region>
       <referenceBand/>
-      <geoRegion>$polygon</geoRegion>
+      <geoRegion>{subset_region}</geoRegion>
       <subSamplingX>1</subSamplingX>
       <subSamplingY>1</subSamplingY>
       <fullSwath>false</fullSwath>
@@ -89,7 +89,7 @@
       <sourceProduct refid="C2RCC"/>
     </sources>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <file>$output</file>
+      <file>{output_file}</file>
       <formatName>NetCDF4-BEAM</formatName>
     </parameters>
   </node>

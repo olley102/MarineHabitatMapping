@@ -5,7 +5,7 @@
     <sources/>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
       <useAdvancedOptions>false</useAdvancedOptions>
-      <file>{input_file}</file>
+      <file>../data/s2_downloads/32UNG/S2B_MSIL1C_20240720T103629_N0510_R008_T32UNG_20240720T113412.SAFE</file>
       <copyMetadata>true</copyMetadata>
       <bandNames/>
       <!-- <pixelRegion>0,0,10980,10980</pixelRegion> -->
@@ -19,7 +19,7 @@
     </sources>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
       <sourceBands/>
-      <geoRegion>{subset_region}</geoRegion>
+      <geoRegion>POLYGON ((10.860089372067979 54.85660379529612, 10.860089372067979 56.04452760218919, 9.369201690662534 56.04452760218919, 9.369201690662534 54.85660379529612, 10.860089372067979 54.85660379529612))</geoRegion>
       <copyMetadata>true</copyMetadata>
     </parameters>
   </node>
@@ -44,7 +44,7 @@
       <sourceProduct refid="Resample"/>
     </sources>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <file>{output_file}</file>
+      <file>../data/s2_processed/32UNG/subset-32UNG.nc</file>
       <formatName>NetCDF4-BEAM</formatName>
     </parameters>
   </node>
