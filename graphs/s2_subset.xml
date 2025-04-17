@@ -12,10 +12,23 @@
       <maskNames/>
     </parameters>
   </node>
+  <node id="S2Resampling">
+    <operator>S2Resampling</operator>
+    <sources>
+      <sourceProduct refid="Read"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <targetResolution>20</targetResolution>
+      <upsampling>Nearest</upsampling>
+      <downsampling>Mean</downsampling>
+      <flagDownsampling>First</flagDownsampling>
+      <resampleOnPyramidLevels>true</resampleOnPyramidLevels>
+    </parameters>
+  </node>
   <node id="Subset">
     <operator>Subset</operator>
     <sources>
-      <sourceProduct refid="Read"/>
+      <sourceProduct refid="S2Resampling"/>
     </sources>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
       <sourceBands/>
@@ -23,25 +36,10 @@
       <copyMetadata>true</copyMetadata>
     </parameters>
   </node>
-  <node id="Resample">
-    <operator>Resample</operator>
-    <sources>
-      <sourceProduct refid="Subset"/>
-    </sources>
-    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <targetResolution>10</targetResolution>
-      <upsampling>Nearest</upsampling>
-      <downsampling>Mean</downsampling>
-      <flagDownsampling>First</flagDownsampling>
-      <resamplingPreset/>
-      <bandResamplings/>
-      <resampleOnPyramidLevels>true</resampleOnPyramidLevels>
-    </parameters>
-  </node>
   <node id="Write">
     <operator>Write</operator>
     <sources>
-      <sourceProduct refid="Resample"/>
+      <sourceProduct refid="Subset"/>
     </sources>
     <parameters class="com.bc.ceres.binding.dom.XppDomElement">
       <file>{output_file}</file>
