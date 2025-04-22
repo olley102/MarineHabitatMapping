@@ -12,7 +12,14 @@
       <sourceProduct refid="Read"/>
     </sources>
     <parameters>
-      <computeCloudShadow>false</computeCloudShadow>
+      <copyToaReflectances>false</copyToaReflectances>
+        <copyFeatureValues>false</copyFeatureValues>
+        <computeMountainShadow>false</computeMountainShadow>
+        <computeCloudShadow>false</computeCloudShadow>
+        <computeCloudBuffer>false</computeCloudBuffer>
+        <computeCloudBufferForCloudAmbiguous>false</computeCloudBufferForCloudAmbiguous>
+        <cloudBufferWidth>2</cloudBufferWidth>
+        <demName>SRTM 3Sec</demName>
     </parameters>
   </node>
   <node id="Write">

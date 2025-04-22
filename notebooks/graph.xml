@@ -1,48 +1,34 @@
-<graph id="Graph">
+<graph id="Idepix_LandWater">
   <version>1.0</version>
   <node id="Read">
     <operator>Read</operator>
-    <sources/>
-    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <useAdvancedOptions>false</useAdvancedOptions>
-      <file>../data/s2_downloads/30UXA/S2A_MSIL1C_20200625T110631_N0500_R137_T30UXA_20230328T193911.SAFE</file>
-      <copyMetadata>true</copyMetadata>
-      <bandNames/>
-      <!-- <pixelRegion>0,0,10980,10980</pixelRegion> -->
-      <maskNames/>
+    <parameters>
+      <file>../data/s2_processed/30UUA/subset-30UUA.nc</file>
     </parameters>
   </node>
-  <node id="S2Resampling">
-    <operator>S2Resampling</operator>
+  <node id="Idepix_S2">
+    <operator>Idepix.S2</operator>
     <sources>
       <sourceProduct refid="Read"/>
     </sources>
-    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <targetResolution>20</targetResolution>
-      <upsampling>Nearest</upsampling>
-      <downsampling>Mean</downsampling>
-      <flagDownsampling>First</flagDownsampling>
-      <resampleOnPyramidLevels>true</resampleOnPyramidLevels>
-    </parameters>
-  </node>
-  <node id="Subset">
-    <operator>Subset</operator>
-    <sources>
-      <sourceProduct refid="S2Resampling"/>
-    </sources>
-    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <sourceBands/>
-      <geoRegion>POLYGON ((-1.0574713660950086 49.45873472081343, -1.0574713660950086 49.82234268848021, -1.755602651283076 49.82234268848021, -1.755602651283076 49.45873472081343, -1.0574713660950086 49.45873472081343))</geoRegion>
-      <copyMetadata>true</copyMetadata>
+    <parameters>
+      <copyToaReflectances>false</copyToaReflectances>
+        <copyFeatureValues>false</copyFeatureValues>
+        <computeMountainShadow>false</computeMountainShadow>
+        <computeCloudShadow>false</computeCloudShadow>
+        <computeCloudBuffer>false</computeCloudBuffer>
+        <computeCloudBufferForCloudAmbiguous>false</computeCloudBufferForCloudAmbiguous>
+        <cloudBufferWidth>2</cloudBufferWidth>
+        <demName>SRTM 3Sec</demName>
     </parameters>
   </node>
   <node id="Write">
     <operator>Write</operator>
     <sources>
-      <sourceProduct refid="Subset"/>
+      <sourceProduct refid="Idepix_S2"/>
     </sources>
-    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
-      <file>../data/s2_processed/30UXA/subset-30UXA.nc</file>
+    <parameters>
+      <file>../data/s2_processed/30UUA/idepix-30UUA.nc</file>
       <formatName>NetCDF4-BEAM</formatName>
     </parameters>
   </node>
