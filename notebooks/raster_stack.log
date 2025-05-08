@@ -1,0 +1,771 @@
+2025-05-07 16:47:06,517 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:47:42,533 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:50:14,347 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:50:55,406 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:50:55,546 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:51:35,261 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:51:35,395 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:52:55,594 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:53:23,424 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:53:23,565 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:54:16,165 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:54:16,303 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:54:32,601 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:54:32,737 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:54:56,222 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:54:56,363 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:55:13,211 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:55:13,347 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:58:59,586 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 16:58:59,727 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 16:58:59,863 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.21572392..6.880521].
+2025-05-07 17:00:42,784 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.25727797..7.1729813].
+2025-05-07 17:00:42,915 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.24518503..7.6654243].
+2025-05-07 17:00:43,044 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.21572392..6.880521].
+2025-05-07 17:25:08,756 - INFO - [29UPR] Loading Sentinel-2 derivations...
+2025-05-07 17:25:08,808 - INFO - [29UPR] Creating masks...
+2025-05-07 17:25:09,162 - INFO - [29UPR] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 17:25:09,537 - INFO - [29UPR] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 17:25:09,550 - INFO - [29UPR] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 17:25:09,562 - INFO - [29UPR] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 17:25:09,569 - INFO - [29UPR] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 17:25:09,672 - INFO - [29UPR] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 17:25:09,680 - INFO - [29UPR] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 17:25:09,807 - INFO - [29UPR] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 17:25:09,901 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 17:25:09,918 - INFO - [29UPR] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 17:25:09,925 - INFO - [29UPR] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 17:25:09,932 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 17:25:09,939 - INFO - [29UPR] Creating point bubble layer for habtype Seamounts.
+2025-05-07 17:25:09,946 - INFO - [29UPR] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 17:25:09,959 - INFO - [29UPR] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 17:25:09,967 - INFO - [29UPR] Clipping by subtiles: 10
+2025-05-07 17:25:12,880 - INFO - [29UPR] Combining datasets
+2025-05-07 17:41:19,943 - INFO - [29UPR] Loading Sentinel-2 derivations...
+2025-05-07 17:41:19,989 - INFO - [29UPR] Creating masks...
+2025-05-07 17:41:20,258 - INFO - [29UPR] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 17:41:20,542 - INFO - [29UPR] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 17:41:20,550 - INFO - [29UPR] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 17:41:20,557 - INFO - [29UPR] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 17:41:20,564 - INFO - [29UPR] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 17:41:20,688 - INFO - [29UPR] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 17:41:20,695 - INFO - [29UPR] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 17:41:20,854 - INFO - [29UPR] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 17:41:20,946 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 17:41:20,954 - INFO - [29UPR] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 17:41:20,961 - INFO - [29UPR] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 17:41:20,967 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 17:41:20,974 - INFO - [29UPR] Creating point bubble layer for habtype Seamounts.
+2025-05-07 17:41:20,981 - INFO - [29UPR] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 17:41:20,988 - INFO - [29UPR] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 17:41:20,995 - INFO - [29UPR] Clipping by subtiles: 10
+2025-05-07 17:42:08,710 - INFO - [29UPR] Loading Sentinel-2 derivations...
+2025-05-07 17:42:08,756 - INFO - [29UPR] Creating masks...
+2025-05-07 17:42:09,021 - INFO - [29UPR] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 17:42:09,279 - INFO - [29UPR] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 17:42:09,287 - INFO - [29UPR] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 17:42:09,294 - INFO - [29UPR] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 17:42:09,302 - INFO - [29UPR] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 17:42:09,395 - INFO - [29UPR] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 17:42:09,402 - INFO - [29UPR] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 17:42:09,528 - INFO - [29UPR] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 17:42:09,652 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 17:42:09,660 - INFO - [29UPR] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 17:42:09,667 - INFO - [29UPR] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 17:42:09,674 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 17:42:09,682 - INFO - [29UPR] Creating point bubble layer for habtype Seamounts.
+2025-05-07 17:42:09,689 - INFO - [29UPR] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 17:42:09,697 - INFO - [29UPR] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 17:42:09,704 - INFO - [29UPR] Clipping by subtiles: 10
+2025-05-07 17:42:10,923 - INFO - [29UPR] Combining datasets
+2025-05-07 17:42:10,987 - INFO - [29UPR] Saving data cube
+2025-05-07 17:42:11,178 - INFO - [30UUA] Result already exists. Skipping...
+2025-05-07 17:42:11,186 - INFO - [30UVA] Loading Sentinel-2 derivations...
+2025-05-07 17:42:11,230 - INFO - [30UVA] Creating masks...
+2025-05-07 17:42:12,030 - INFO - [30UVA] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 17:42:13,043 - INFO - [30UVA] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 17:42:13,083 - INFO - [30UVA] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 17:42:13,123 - INFO - [30UVA] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 17:42:13,163 - INFO - [30UVA] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 17:42:13,203 - INFO - [30UVA] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 17:42:13,243 - INFO - [30UVA] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 17:42:13,739 - INFO - [30UVA] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 17:42:13,779 - INFO - [30UVA] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 17:42:14,237 - INFO - [30UVA] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 17:42:14,277 - INFO - [30UVA] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 17:42:14,317 - INFO - [30UVA] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 17:42:14,824 - INFO - [30UVA] Creating point bubble layer for habtype Seamounts.
+2025-05-07 17:42:14,865 - INFO - [30UVA] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 17:42:15,328 - INFO - [30UVA] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 17:42:15,793 - INFO - [30UVA] Clipping by subtiles: 26
+2025-05-07 17:43:06,728 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.16986108..7.310424].
+2025-05-07 17:59:03,097 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.16986108..7.310424].
+2025-05-07 17:59:18,616 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.16986108..7.310424].
+2025-05-07 17:59:32,134 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.16986108..7.310424].
+2025-05-07 17:59:32,334 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.1991907..7.6868105].
+2025-05-07 17:59:32,536 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.07311515..2.5677733].
+2025-05-07 18:01:08,347 - INFO - [29UPR] Loading Sentinel-2 derivations...
+2025-05-07 18:01:08,395 - INFO - [29UPR] Creating masks...
+2025-05-07 18:01:08,723 - INFO - [29UPR] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:01:09,020 - INFO - [29UPR] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:01:09,027 - INFO - [29UPR] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:01:09,034 - INFO - [29UPR] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:01:09,041 - INFO - [29UPR] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:01:09,148 - INFO - [29UPR] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:01:09,155 - INFO - [29UPR] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:01:09,293 - INFO - [29UPR] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:01:09,381 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:01:09,388 - INFO - [29UPR] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:01:09,395 - INFO - [29UPR] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:01:09,402 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:01:09,408 - INFO - [29UPR] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:01:09,415 - INFO - [29UPR] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:01:09,422 - INFO - [29UPR] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:01:09,429 - INFO - [29UPR] Clipping by subtiles: 10
+2025-05-07 18:02:19,479 - INFO - [29UPR] Loading Sentinel-2 derivations...
+2025-05-07 18:02:19,528 - INFO - [29UPR] Creating masks...
+2025-05-07 18:02:19,806 - INFO - [29UPR] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:02:20,098 - INFO - [29UPR] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:02:20,105 - INFO - [29UPR] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:02:20,112 - INFO - [29UPR] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:02:20,120 - INFO - [29UPR] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:02:20,207 - INFO - [29UPR] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:02:20,215 - INFO - [29UPR] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:02:20,336 - INFO - [29UPR] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:02:20,445 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:02:20,452 - INFO - [29UPR] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:02:20,460 - INFO - [29UPR] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:02:20,467 - INFO - [29UPR] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:02:20,474 - INFO - [29UPR] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:02:20,481 - INFO - [29UPR] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:02:20,488 - INFO - [29UPR] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:02:20,496 - INFO - [29UPR] Clipping by subtiles: 10
+2025-05-07 18:02:21,747 - INFO - [29UPR] Combining datasets
+2025-05-07 18:02:21,814 - INFO - [29UPR] Saving data cube
+2025-05-07 18:02:21,999 - INFO - [30UUA] Loading Sentinel-2 derivations...
+2025-05-07 18:02:22,038 - INFO - [30UUA] Creating masks...
+2025-05-07 18:02:23,562 - INFO - [30UUA] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:02:25,725 - INFO - [30UUA] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:02:25,814 - INFO - [30UUA] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:02:25,902 - INFO - [30UUA] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:02:25,991 - INFO - [30UUA] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:02:27,060 - INFO - [30UUA] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:02:27,149 - INFO - [30UUA] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:02:28,263 - INFO - [30UUA] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:02:29,380 - INFO - [30UUA] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:02:30,481 - INFO - [30UUA] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:02:30,570 - INFO - [30UUA] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:02:30,659 - INFO - [30UUA] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:02:31,748 - INFO - [30UUA] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:02:31,837 - INFO - [30UUA] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:02:32,868 - INFO - [30UUA] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:02:32,958 - INFO - [30UUA] Clipping by subtiles: 49
+2025-05-07 18:08:17,370 - INFO - [29UPR] Result already exists. Skipping...
+2025-05-07 18:08:17,370 - INFO - [30UUA] Loading Sentinel-2 derivations...
+2025-05-07 18:08:17,419 - INFO - [30UUA] Creating masks...
+2025-05-07 18:08:19,034 - INFO - [30UUA] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:08:21,600 - INFO - [30UUA] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:08:21,693 - INFO - [30UUA] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:08:21,782 - INFO - [30UUA] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:08:21,869 - INFO - [30UUA] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:08:22,963 - INFO - [30UUA] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:08:23,051 - INFO - [30UUA] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:08:24,180 - INFO - [30UUA] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:08:25,319 - INFO - [30UUA] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:08:26,373 - INFO - [30UUA] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:08:26,461 - INFO - [30UUA] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:08:26,550 - INFO - [30UUA] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:08:27,671 - INFO - [30UUA] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:08:27,760 - INFO - [30UUA] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:08:28,796 - INFO - [30UUA] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:08:28,887 - INFO - [30UUA] Clipping by subtiles: 49
+2025-05-07 18:09:03,081 - INFO - [30UUA] Null intersection with subtile 45
+2025-05-07 18:09:03,095 - INFO - [30UUA] Null intersection with subtile 46
+2025-05-07 18:09:03,109 - INFO - [30UUA] Null intersection with subtile 47
+2025-05-07 18:09:03,123 - INFO - [30UUA] Null intersection with subtile 48
+2025-05-07 18:09:03,566 - INFO - [30UUA] Combining datasets
+2025-05-07 18:09:04,729 - INFO - [30UUA] Saving data cube
+2025-05-07 18:09:05,747 - INFO - [30UVA] Loading Sentinel-2 derivations...
+2025-05-07 18:09:05,791 - INFO - [30UVA] Creating masks...
+2025-05-07 18:09:06,747 - INFO - [30UVA] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:09:07,750 - INFO - [30UVA] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:09:07,791 - INFO - [30UVA] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:09:07,831 - INFO - [30UVA] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:09:07,871 - INFO - [30UVA] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:09:07,911 - INFO - [30UVA] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:09:07,951 - INFO - [30UVA] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:09:08,447 - INFO - [30UVA] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:09:08,488 - INFO - [30UVA] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:09:08,942 - INFO - [30UVA] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:09:08,983 - INFO - [30UVA] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:09:09,023 - INFO - [30UVA] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:09:09,522 - INFO - [30UVA] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:09:09,562 - INFO - [30UVA] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:09:09,999 - INFO - [30UVA] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:09:10,468 - INFO - [30UVA] Clipping by subtiles: 26
+2025-05-07 18:09:22,532 - INFO - [30UVA] Combining datasets
+2025-05-07 18:09:22,790 - INFO - [30UVA] Saving data cube
+2025-05-07 18:09:23,284 - INFO - [30UVB] Loading Sentinel-2 derivations...
+2025-05-07 18:09:23,333 - INFO - [30UVB] Creating masks...
+2025-05-07 18:09:25,793 - INFO - [30UVB] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:09:30,293 - INFO - [30UVB] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:09:30,470 - INFO - [30UVB] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:09:30,603 - INFO - [30UVB] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:09:30,736 - INFO - [30UVB] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:09:30,868 - INFO - [30UVB] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:09:31,000 - INFO - [30UVB] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:09:32,987 - INFO - [30UVB] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:09:34,689 - INFO - [30UVB] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:09:36,380 - INFO - [30UVB] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:09:36,514 - INFO - [30UVB] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:09:36,646 - INFO - [30UVB] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:09:38,499 - INFO - [30UVB] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:09:38,633 - INFO - [30UVB] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:09:40,427 - INFO - [30UVB] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:09:40,560 - INFO - [30UVB] Clipping by subtiles: 57
+2025-05-07 18:09:42,711 - INFO - [30UVB] Null intersection with subtile 2
+2025-05-07 18:09:45,392 - INFO - [30UVB] Null intersection with subtile 6
+2025-05-07 18:09:50,564 - INFO - [30UVB] Null intersection with subtile 12
+2025-05-07 18:09:59,800 - INFO - [30UVB] Null intersection with subtile 22
+2025-05-07 18:09:59,818 - INFO - [30UVB] Null intersection with subtile 23
+2025-05-07 18:10:20,188 - INFO - [30UVB] Null intersection with subtile 42
+2025-05-07 18:10:23,954 - INFO - [30UVB] Null intersection with subtile 47
+2025-05-07 18:10:29,068 - INFO - [30UVB] Null intersection with subtile 53
+2025-05-07 18:10:29,089 - INFO - [30UVB] Null intersection with subtile 54
+2025-05-07 18:10:29,116 - INFO - [30UVB] Null intersection with subtile 55
+2025-05-07 18:10:29,136 - INFO - [30UVB] Null intersection with subtile 56
+2025-05-07 18:10:29,631 - INFO - [30UVB] Combining datasets
+2025-05-07 18:10:30,790 - INFO - [30UVB] Saving data cube
+2025-05-07 18:10:31,746 - INFO - [30UWB] Loading Sentinel-2 derivations...
+2025-05-07 18:10:31,794 - INFO - [30UWB] Creating masks...
+2025-05-07 18:10:34,934 - INFO - [30UWB] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:10:39,331 - INFO - [30UWB] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:10:39,462 - INFO - [30UWB] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:10:39,589 - INFO - [30UWB] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:10:39,718 - INFO - [30UWB] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:10:41,536 - INFO - [30UWB] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:10:41,666 - INFO - [30UWB] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:10:43,423 - INFO - [30UWB] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:10:45,181 - INFO - [30UWB] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:10:45,309 - INFO - [30UWB] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:10:45,437 - INFO - [30UWB] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:10:45,566 - INFO - [30UWB] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:10:47,517 - INFO - [30UWB] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:10:47,646 - INFO - [30UWB] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:10:49,588 - INFO - [30UWB] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:10:49,736 - INFO - [30UWB] Clipping by subtiles: 38
+2025-05-07 18:10:56,627 - INFO - [30UWB] Null intersection with subtile 9
+2025-05-07 18:10:58,524 - INFO - [30UWB] Null intersection with subtile 12
+2025-05-07 18:11:17,373 - INFO - [30UWB] Null intersection with subtile 34
+2025-05-07 18:11:17,392 - INFO - [30UWB] Null intersection with subtile 35
+2025-05-07 18:11:17,409 - INFO - [30UWB] Null intersection with subtile 36
+2025-05-07 18:11:17,427 - INFO - [30UWB] Null intersection with subtile 37
+2025-05-07 18:11:17,696 - INFO - [30UWB] Combining datasets
+2025-05-07 18:11:17,999 - INFO - [30UWB] Saving data cube
+2025-05-07 18:11:18,638 - INFO - [30UXA] Loading Sentinel-2 derivations...
+2025-05-07 18:11:18,683 - INFO - [30UXA] Creating masks...
+2025-05-07 18:11:19,040 - INFO - [30UXA] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:11:19,299 - INFO - [30UXA] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:11:19,310 - INFO - [30UXA] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:11:19,317 - INFO - [30UXA] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:11:19,323 - INFO - [30UXA] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:11:19,330 - INFO - [30UXA] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:11:19,336 - INFO - [30UXA] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:11:19,342 - INFO - [30UXA] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:11:19,349 - INFO - [30UXA] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:11:19,355 - INFO - [30UXA] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:11:19,362 - INFO - [30UXA] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:11:19,368 - INFO - [30UXA] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:11:19,375 - INFO - [30UXA] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:11:19,381 - INFO - [30UXA] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:11:19,388 - INFO - [30UXA] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:11:19,395 - INFO - [30UXA] Clipping by subtiles: 12
+2025-05-07 18:11:19,413 - INFO - [30UXA] Null intersection with subtile 0
+2025-05-07 18:11:19,420 - INFO - [30UXA] Null intersection with subtile 1
+2025-05-07 18:11:20,288 - INFO - [30UXA] Null intersection with subtile 6
+2025-05-07 18:11:21,042 - INFO - [30UXA] Combining datasets
+2025-05-07 18:11:21,101 - INFO - [30UXA] Saving data cube
+2025-05-07 18:11:21,279 - INFO - [30UVC] Loading Sentinel-2 derivations...
+2025-05-07 18:11:21,354 - INFO - [30UVC] Creating masks...
+2025-05-07 18:11:23,664 - INFO - [30UVC] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:11:27,031 - INFO - [30UVC] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:11:27,161 - INFO - [30UVC] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:11:27,291 - INFO - [30UVC] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:11:27,421 - INFO - [30UVC] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:11:27,551 - INFO - [30UVC] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:11:27,682 - INFO - [30UVC] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:11:29,400 - INFO - [30UVC] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:11:29,530 - INFO - [30UVC] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:11:31,319 - INFO - [30UVC] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:11:31,448 - INFO - [30UVC] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:11:31,577 - INFO - [30UVC] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:11:33,286 - INFO - [30UVC] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:11:33,415 - INFO - [30UVC] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:11:35,058 - INFO - [30UVC] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:11:35,197 - INFO - [30UVC] Clipping by subtiles: 48
+2025-05-07 18:11:49,633 - INFO - [30UVC] Null intersection with subtile 16
+2025-05-07 18:11:54,038 - INFO - [30UVC] Null intersection with subtile 21
+2025-05-07 18:12:01,428 - INFO - [30UVC] Null intersection with subtile 30
+2025-05-07 18:12:01,893 - INFO - [30UVC] Null intersection with subtile 32
+2025-05-07 18:12:02,877 - INFO - [30UVC] Null intersection with subtile 34
+2025-05-07 18:12:04,051 - INFO - [30UVC] Null intersection with subtile 37
+2025-05-07 18:12:05,579 - INFO - [30UVC] Null intersection with subtile 41
+2025-05-07 18:12:07,096 - INFO - [30UVC] Null intersection with subtile 45
+2025-05-07 18:12:07,114 - INFO - [30UVC] Null intersection with subtile 46
+2025-05-07 18:12:07,133 - INFO - [30UVC] Null intersection with subtile 47
+2025-05-07 18:12:07,441 - INFO - [30UVC] Combining datasets
+2025-05-07 18:12:07,839 - INFO - [30UVC] Saving data cube
+2025-05-07 18:12:08,585 - INFO - [30UUC] Loading Sentinel-2 derivations...
+2025-05-07 18:12:08,710 - INFO - [30UUC] Creating masks...
+2025-05-07 18:12:11,071 - INFO - [30UUC] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:12:14,456 - INFO - [30UUC] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:12:14,551 - INFO - [30UUC] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:12:14,641 - INFO - [30UUC] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:12:14,732 - INFO - [30UUC] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:12:14,822 - INFO - [30UUC] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:12:14,912 - INFO - [30UUC] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:12:16,126 - INFO - [30UUC] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:12:16,217 - INFO - [30UUC] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:12:17,477 - INFO - [30UUC] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:12:18,741 - INFO - [30UUC] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:12:19,880 - INFO - [30UUC] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:12:21,088 - INFO - [30UUC] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:12:21,181 - INFO - [30UUC] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:12:22,399 - INFO - [30UUC] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:12:22,494 - INFO - [30UUC] Clipping by subtiles: 45
+2025-05-07 18:12:57,005 - INFO - [30UUC] Null intersection with subtile 41
+2025-05-07 18:12:57,019 - INFO - [30UUC] Null intersection with subtile 42
+2025-05-07 18:12:57,034 - INFO - [30UUC] Null intersection with subtile 43
+2025-05-07 18:12:57,048 - INFO - [30UUC] Null intersection with subtile 44
+2025-05-07 18:12:57,405 - INFO - [30UUC] Combining datasets
+2025-05-07 18:12:57,843 - INFO - [30UUC] Saving data cube
+2025-05-07 18:12:58,693 - INFO - [30UUD] Loading Sentinel-2 derivations...
+2025-05-07 18:12:58,782 - INFO - [30UUD] Creating masks...
+2025-05-07 18:12:59,372 - INFO - [30UUD] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:12:59,997 - INFO - [30UUD] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:13:00,027 - INFO - [30UUD] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:13:00,050 - INFO - [30UUD] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:13:00,080 - INFO - [30UUD] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:13:00,102 - INFO - [30UUD] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:13:00,132 - INFO - [30UUD] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:13:00,434 - INFO - [30UUD] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:13:00,464 - INFO - [30UUD] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:13:00,757 - INFO - [30UUD] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:13:00,788 - INFO - [30UUD] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:13:01,087 - INFO - [30UUD] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:13:01,118 - INFO - [30UUD] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:13:01,148 - INFO - [30UUD] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:13:01,491 - INFO - [30UUD] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:13:01,522 - INFO - [30UUD] Clipping by subtiles: 24
+2025-05-07 18:13:06,916 - INFO - [30UUD] Null intersection with subtile 19
+2025-05-07 18:13:06,924 - INFO - [30UUD] Null intersection with subtile 20
+2025-05-07 18:13:06,932 - INFO - [30UUD] Null intersection with subtile 21
+2025-05-07 18:13:06,939 - INFO - [30UUD] Null intersection with subtile 22
+2025-05-07 18:13:06,947 - INFO - [30UUD] Null intersection with subtile 23
+2025-05-07 18:13:07,113 - INFO - [30UUD] Combining datasets
+2025-05-07 18:13:07,238 - INFO - [30UUD] Saving data cube
+2025-05-07 18:13:07,570 - INFO - [30UUE] Loading Sentinel-2 derivations...
+2025-05-07 18:13:07,615 - INFO - [30UUE] Creating masks...
+2025-05-07 18:13:10,063 - INFO - [30UUE] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:13:14,110 - INFO - [30UUE] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:13:14,329 - INFO - [30UUE] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:13:14,461 - INFO - [30UUE] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:13:14,603 - INFO - [30UUE] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:13:16,706 - INFO - [30UUE] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:13:16,840 - INFO - [30UUE] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:13:18,773 - INFO - [30UUE] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:13:18,907 - INFO - [30UUE] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:13:20,511 - INFO - [30UUE] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:13:20,646 - INFO - [30UUE] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:13:22,315 - INFO - [30UUE] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:13:22,450 - INFO - [30UUE] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:13:22,584 - INFO - [30UUE] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:13:24,305 - INFO - [30UUE] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:13:24,440 - INFO - [30UUE] Clipping by subtiles: 36
+2025-05-07 18:13:24,460 - INFO - [30UUE] Null intersection with subtile 0
+2025-05-07 18:13:24,478 - INFO - [30UUE] Null intersection with subtile 1
+2025-05-07 18:13:24,497 - INFO - [30UUE] Null intersection with subtile 2
+2025-05-07 18:13:24,517 - INFO - [30UUE] Null intersection with subtile 3
+2025-05-07 18:13:24,537 - INFO - [30UUE] Null intersection with subtile 4
+2025-05-07 18:13:30,244 - INFO - [30UUE] Null intersection with subtile 11
+2025-05-07 18:13:39,463 - INFO - [30UUE] Null intersection with subtile 20
+2025-05-07 18:13:44,848 - INFO - [30UUE] Null intersection with subtile 27
+2025-05-07 18:13:49,251 - INFO - [30UUE] Null intersection with subtile 32
+2025-05-07 18:13:49,270 - INFO - [30UUE] Null intersection with subtile 33
+2025-05-07 18:13:49,288 - INFO - [30UUE] Null intersection with subtile 34
+2025-05-07 18:13:49,307 - INFO - [30UUE] Null intersection with subtile 35
+2025-05-07 18:13:49,537 - INFO - [30UUE] Combining datasets
+2025-05-07 18:13:49,795 - INFO - [30UUE] Saving data cube
+2025-05-07 18:13:50,297 - INFO - [30UVE] Loading Sentinel-2 derivations...
+2025-05-07 18:13:50,358 - INFO - [30UVE] Creating masks...
+2025-05-07 18:13:53,601 - INFO - [30UVE] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:13:58,016 - INFO - [30UVE] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:13:58,155 - INFO - [30UVE] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:13:58,288 - INFO - [30UVE] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:13:58,421 - INFO - [30UVE] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:14:00,292 - INFO - [30UVE] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:14:00,428 - INFO - [30UVE] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:14:02,308 - INFO - [30UVE] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:14:02,444 - INFO - [30UVE] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:14:04,302 - INFO - [30UVE] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:14:04,436 - INFO - [30UVE] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:14:06,111 - INFO - [30UVE] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:14:07,897 - INFO - [30UVE] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:14:08,030 - INFO - [30UVE] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:14:09,654 - INFO - [30UVE] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:14:09,788 - INFO - [30UVE] Clipping by subtiles: 63
+2025-05-07 18:14:13,827 - INFO - [30UVE] Null intersection with subtile 4
+2025-05-07 18:14:17,817 - INFO - [30UVE] Null intersection with subtile 9
+2025-05-07 18:14:17,835 - INFO - [30UVE] Null intersection with subtile 10
+2025-05-07 18:14:35,127 - INFO - [30UVE] Null intersection with subtile 31
+2025-05-07 18:14:40,855 - INFO - [30UVE] Null intersection with subtile 37
+2025-05-07 18:14:50,583 - INFO - [30UVE] Null intersection with subtile 49
+2025-05-07 18:14:57,821 - INFO - [30UVE] Null intersection with subtile 58
+2025-05-07 18:14:57,839 - INFO - [30UVE] Null intersection with subtile 59
+2025-05-07 18:14:57,857 - INFO - [30UVE] Null intersection with subtile 60
+2025-05-07 18:14:57,876 - INFO - [30UVE] Null intersection with subtile 61
+2025-05-07 18:14:57,894 - INFO - [30UVE] Null intersection with subtile 62
+2025-05-07 18:14:58,361 - INFO - [30UVE] Combining datasets
+2025-05-07 18:14:59,964 - INFO - [30UVE] Saving data cube
+2025-05-07 18:15:01,130 - INFO - [30UUF] Loading Sentinel-2 derivations...
+2025-05-07 18:15:01,203 - INFO - [30UUF] Creating masks...
+2025-05-07 18:15:04,082 - INFO - [30UUF] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:15:09,185 - INFO - [30UUF] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:15:09,336 - INFO - [30UUF] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:15:09,547 - INFO - [30UUF] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:15:09,683 - INFO - [30UUF] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:15:11,801 - INFO - [30UUF] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:15:11,948 - INFO - [30UUF] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:15:14,303 - INFO - [30UUF] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:15:16,083 - INFO - [30UUF] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:15:18,171 - INFO - [30UUF] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:15:18,318 - INFO - [30UUF] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:15:20,602 - INFO - [30UUF] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:15:22,368 - INFO - [30UUF] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:15:22,594 - INFO - [30UUF] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:15:22,766 - INFO - [30UUF] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:15:23,008 - INFO - [30UUF] Clipping by subtiles: 85
+2025-05-07 18:15:23,042 - INFO - [30UUF] Null intersection with subtile 0
+2025-05-07 18:15:23,061 - INFO - [30UUF] Null intersection with subtile 1
+2025-05-07 18:15:23,080 - INFO - [30UUF] Null intersection with subtile 2
+2025-05-07 18:15:25,180 - INFO - [30UUF] Null intersection with subtile 5
+2025-05-07 18:15:31,126 - INFO - [30UUF] Null intersection with subtile 14
+2025-05-07 18:16:01,252 - INFO - [30UUF] Null intersection with subtile 40
+2025-05-07 18:16:04,144 - INFO - [30UUF] Null intersection with subtile 45
+2025-05-07 18:16:04,170 - INFO - [30UUF] Null intersection with subtile 46
+2025-05-07 18:16:14,129 - INFO - [30UUF] Null intersection with subtile 53
+2025-05-07 18:16:14,148 - INFO - [30UUF] Null intersection with subtile 54
+2025-05-07 18:16:20,595 - INFO - [30UUF] Null intersection with subtile 62
+2025-05-07 18:16:34,435 - INFO - [30UUF] Null intersection with subtile 77
+2025-05-07 18:16:34,453 - INFO - [30UUF] Null intersection with subtile 78
+2025-05-07 18:16:34,471 - INFO - [30UUF] Null intersection with subtile 79
+2025-05-07 18:16:34,489 - INFO - [30UUF] Null intersection with subtile 80
+2025-05-07 18:16:34,507 - INFO - [30UUF] Null intersection with subtile 81
+2025-05-07 18:16:34,525 - INFO - [30UUF] Null intersection with subtile 82
+2025-05-07 18:16:34,543 - INFO - [30UUF] Null intersection with subtile 83
+2025-05-07 18:16:34,561 - INFO - [30UUF] Null intersection with subtile 84
+2025-05-07 18:16:35,135 - INFO - [30UUF] Combining datasets
+2025-05-07 18:16:37,646 - INFO - [30UUF] Saving data cube
+2025-05-07 18:16:39,048 - INFO - [30UVF] Loading Sentinel-2 derivations...
+2025-05-07 18:16:39,094 - INFO - [30UVF] Creating masks...
+2025-05-07 18:16:42,299 - INFO - [30UVF] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:16:42,311 - INFO - [30UVF] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:16:42,313 - INFO - [30UVF] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:16:42,314 - INFO - [30UVF] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:16:42,315 - INFO - [30UVF] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:16:46,015 - INFO - [30UVF] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:16:46,189 - INFO - [30UVF] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:16:48,753 - INFO - [30UVF] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:16:48,900 - INFO - [30UVF] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:16:51,306 - INFO - [30UVF] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:16:51,454 - INFO - [30UVF] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:16:51,677 - INFO - [30UVF] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:16:53,975 - INFO - [30UVF] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:16:54,123 - INFO - [30UVF] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:16:56,573 - INFO - [30UVF] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:16:56,724 - INFO - [30UVF] Clipping by subtiles: 71
+2025-05-07 18:17:36,796 - INFO - [30UVF] Null intersection with subtile 42
+2025-05-07 18:17:50,043 - INFO - [30UVF] Null intersection with subtile 51
+2025-05-07 18:17:54,383 - INFO - [30UVF] Null intersection with subtile 58
+2025-05-07 18:17:57,307 - INFO - [30UVF] Null intersection with subtile 64
+2025-05-07 18:17:59,523 - INFO - [30UVF] Null intersection with subtile 68
+2025-05-07 18:17:59,542 - INFO - [30UVF] Null intersection with subtile 69
+2025-05-07 18:17:59,560 - INFO - [30UVF] Null intersection with subtile 70
+2025-05-07 18:18:00,100 - INFO - [30UVF] Combining datasets
+2025-05-07 18:18:01,484 - INFO - [30UVF] Saving data cube
+2025-05-07 18:18:02,871 - INFO - [30UUG] Loading Sentinel-2 derivations...
+2025-05-07 18:18:02,952 - INFO - [30UUG] Creating masks...
+2025-05-07 18:18:05,880 - INFO - [30UUG] Creating point bubble layer for habtype Zostera beds.
+2025-05-07 18:18:11,233 - INFO - [30UUG] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-07 18:18:11,372 - INFO - [30UUG] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-07 18:18:11,504 - INFO - [30UUG] Creating point bubble layer for habtype Coral gardens.
+2025-05-07 18:18:11,635 - INFO - [30UUG] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-07 18:18:14,036 - INFO - [30UUG] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-07 18:18:14,182 - INFO - [30UUG] Creating point bubble layer for habtype Kelp forests.
+2025-05-07 18:18:16,456 - INFO - [30UUG] Creating point bubble layer for habtype Maerl beds.
+2025-05-07 18:18:18,321 - INFO - [30UUG] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-07 18:18:20,285 - INFO - [30UUG] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-07 18:18:20,428 - INFO - [30UUG] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-07 18:18:22,633 - INFO - [30UUG] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-07 18:18:24,372 - INFO - [30UUG] Creating point bubble layer for habtype Seamounts.
+2025-05-07 18:18:24,535 - INFO - [30UUG] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-07 18:18:24,704 - INFO - [30UUG] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-07 18:18:24,860 - INFO - [30UUG] Clipping by subtiles: 105
+2025-05-07 18:18:24,887 - INFO - [30UUG] Null intersection with subtile 0
+2025-05-07 18:18:24,906 - INFO - [30UUG] Null intersection with subtile 1
+2025-05-07 18:18:24,926 - INFO - [30UUG] Null intersection with subtile 2
+2025-05-07 18:18:32,542 - INFO - [30UUG] Null intersection with subtile 12
+2025-05-07 18:18:41,477 - INFO - [30UUG] Null intersection with subtile 24
+2025-05-07 18:19:15,194 - INFO - [30UUG] Null intersection with subtile 53
+2025-05-07 18:19:23,448 - INFO - [30UUG] Null intersection with subtile 63
+2025-05-07 18:19:32,166 - INFO - [30UUG] Null intersection with subtile 75
+2025-05-07 18:20:10,465 - INFO - [30UUG] Null intersection with subtile 104
+2025-05-07 18:20:11,483 - INFO - [30UUG] Combining datasets
+2025-05-08 12:16:24,460 - INFO - [29UPR] Result already exists. Skipping...
+2025-05-08 12:16:24,460 - INFO - [30UUA] Result already exists. Skipping...
+2025-05-08 12:16:24,461 - INFO - [30UVA] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UVB] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UWB] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UXA] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UVC] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UUC] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UUD] Result already exists. Skipping...
+2025-05-08 12:16:24,462 - INFO - [30UUE] Result already exists. Skipping...
+2025-05-08 12:16:24,463 - INFO - [30UVE] Result already exists. Skipping...
+2025-05-08 12:16:24,463 - INFO - [30UUF] Result already exists. Skipping...
+2025-05-08 12:16:24,463 - INFO - [30UVF] Result already exists. Skipping...
+2025-05-08 12:16:24,463 - INFO - [30UUG] Loading Sentinel-2 derivations...
+2025-05-08 12:16:24,532 - INFO - [30UUG] Creating masks...
+2025-05-08 12:16:27,071 - INFO - [30UUG] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:16:30,533 - INFO - [30UUG] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:16:30,660 - INFO - [30UUG] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:16:30,787 - INFO - [30UUG] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:16:30,914 - INFO - [30UUG] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:16:32,633 - INFO - [30UUG] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:16:32,761 - INFO - [30UUG] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:16:34,478 - INFO - [30UUG] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:16:36,190 - INFO - [30UUG] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:16:37,745 - INFO - [30UUG] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:16:37,872 - INFO - [30UUG] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:16:39,471 - INFO - [30UUG] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:16:41,125 - INFO - [30UUG] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:16:41,253 - INFO - [30UUG] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:16:41,380 - INFO - [30UUG] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:16:41,508 - INFO - [30UUG] Clipping by subtiles: 105
+2025-05-08 12:16:41,535 - INFO - [30UUG] Null intersection with subtile 0
+2025-05-08 12:16:41,559 - INFO - [30UUG] Null intersection with subtile 1
+2025-05-08 12:16:41,579 - INFO - [30UUG] Null intersection with subtile 2
+2025-05-08 12:16:50,576 - INFO - [30UUG] Null intersection with subtile 12
+2025-05-08 12:17:01,109 - INFO - [30UUG] Null intersection with subtile 24
+2025-05-08 12:17:38,663 - INFO - [30UUG] Null intersection with subtile 53
+2025-05-08 12:17:48,316 - INFO - [30UUG] Null intersection with subtile 63
+2025-05-08 12:17:58,572 - INFO - [30UUG] Null intersection with subtile 75
+2025-05-08 12:18:35,564 - INFO - [30UUG] Null intersection with subtile 104
+2025-05-08 12:18:36,520 - INFO - [30UUG] Combining datasets
+2025-05-08 12:18:37,571 - INFO - [30UUG] Saving data cube
+2025-05-08 12:18:39,540 - INFO - [29UPB] Loading Sentinel-2 derivations...
+2025-05-08 12:18:39,604 - INFO - [29UPB] Creating masks...
+2025-05-08 12:18:42,101 - INFO - [29UPB] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:18:45,524 - INFO - [29UPB] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:18:45,652 - INFO - [29UPB] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:18:45,780 - INFO - [29UPB] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:18:45,908 - INFO - [29UPB] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:18:46,036 - INFO - [29UPB] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:18:46,164 - INFO - [29UPB] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:18:47,881 - INFO - [29UPB] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:18:49,565 - INFO - [29UPB] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:18:51,222 - INFO - [29UPB] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:18:51,350 - INFO - [29UPB] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:18:52,946 - INFO - [29UPB] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:18:54,630 - INFO - [29UPB] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:18:54,758 - INFO - [29UPB] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:18:56,367 - INFO - [29UPB] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:18:56,497 - INFO - [29UPB] Clipping by subtiles: 81
+2025-05-08 12:18:56,519 - INFO - [29UPB] Null intersection with subtile 0
+2025-05-08 12:18:56,537 - INFO - [29UPB] Null intersection with subtile 1
+2025-05-08 12:19:43,415 - INFO - [29UPB] Null intersection with subtile 49
+2025-05-08 12:19:51,148 - INFO - [29UPB] Null intersection with subtile 61
+2025-05-08 12:20:06,598 - INFO - [29UPB] Combining datasets
+2025-05-08 12:20:07,420 - INFO - [29UPB] Saving data cube
+2025-05-08 12:20:08,826 - INFO - [30VUH] Loading Sentinel-2 derivations...
+2025-05-08 12:20:08,873 - INFO - [30VUH] Creating masks...
+2025-05-08 12:20:11,345 - INFO - [30VUH] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:20:14,700 - INFO - [30VUH] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:20:14,832 - INFO - [30VUH] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:20:14,963 - INFO - [30VUH] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:20:15,091 - INFO - [30VUH] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:20:16,892 - INFO - [30VUH] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:20:17,020 - INFO - [30VUH] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:20:18,774 - INFO - [30VUH] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:20:20,445 - INFO - [30VUH] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:20:22,009 - INFO - [30VUH] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:20:22,137 - INFO - [30VUH] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:20:23,867 - INFO - [30VUH] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:20:25,540 - INFO - [30VUH] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:20:25,668 - INFO - [30VUH] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:20:25,796 - INFO - [30VUH] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:20:25,926 - INFO - [30VUH] Clipping by subtiles: 116
+2025-05-08 12:20:25,948 - INFO - [30VUH] Null intersection with subtile 0
+2025-05-08 12:20:25,967 - INFO - [30VUH] Null intersection with subtile 1
+2025-05-08 12:20:25,985 - INFO - [30VUH] Null intersection with subtile 2
+2025-05-08 12:20:26,004 - INFO - [30VUH] Null intersection with subtile 3
+2025-05-08 12:20:26,023 - INFO - [30VUH] Null intersection with subtile 4
+2025-05-08 12:20:26,042 - INFO - [30VUH] Null intersection with subtile 5
+2025-05-08 12:20:26,060 - INFO - [30VUH] Null intersection with subtile 6
+2025-05-08 12:20:26,079 - INFO - [30VUH] Null intersection with subtile 7
+2025-05-08 12:20:26,098 - INFO - [30VUH] Null intersection with subtile 8
+2025-05-08 12:20:26,117 - INFO - [30VUH] Null intersection with subtile 9
+2025-05-08 12:20:26,135 - INFO - [30VUH] Null intersection with subtile 10
+2025-05-08 12:20:26,154 - INFO - [30VUH] Null intersection with subtile 11
+2025-05-08 12:20:34,208 - INFO - [30VUH] Null intersection with subtile 23
+2025-05-08 12:20:41,974 - INFO - [30VUH] Null intersection with subtile 35
+2025-05-08 12:20:51,105 - INFO - [30VUH] Null intersection with subtile 47
+2025-05-08 12:20:51,123 - INFO - [30VUH] Null intersection with subtile 48
+2025-05-08 12:21:08,089 - INFO - [30VUH] Null intersection with subtile 60
+2025-05-08 12:21:08,108 - INFO - [30VUH] Null intersection with subtile 61
+2025-05-08 12:21:14,945 - INFO - [30VUH] Null intersection with subtile 72
+2025-05-08 12:21:22,362 - INFO - [30VUH] Null intersection with subtile 81
+2025-05-08 12:21:28,981 - INFO - [30VUH] Null intersection with subtile 92
+2025-05-08 12:21:29,000 - INFO - [30VUH] Null intersection with subtile 93
+2025-05-08 12:21:41,024 - INFO - [30VUH] Null intersection with subtile 102
+2025-05-08 12:21:41,043 - INFO - [30VUH] Null intersection with subtile 103
+2025-05-08 12:21:50,173 - INFO - [30VUH] Null intersection with subtile 115
+2025-05-08 12:21:50,957 - INFO - [30VUH] Combining datasets
+2025-05-08 12:21:51,963 - INFO - [30VUH] Saving data cube
+2025-05-08 12:21:53,661 - INFO - [30VUJ] Loading Sentinel-2 derivations...
+2025-05-08 12:21:53,709 - INFO - [30VUJ] Creating masks...
+2025-05-08 12:21:55,536 - INFO - [30VUJ] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:21:58,046 - INFO - [30VUJ] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:21:58,144 - INFO - [30VUJ] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:21:58,242 - INFO - [30VUJ] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:21:58,339 - INFO - [30VUJ] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:21:59,680 - INFO - [30VUJ] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:21:59,778 - INFO - [30VUJ] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:22:01,063 - INFO - [30VUJ] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:22:02,340 - INFO - [30VUJ] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:22:03,478 - INFO - [30VUJ] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:22:03,576 - INFO - [30VUJ] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:22:04,852 - INFO - [30VUJ] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:22:04,951 - INFO - [30VUJ] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:22:05,049 - INFO - [30VUJ] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:22:05,146 - INFO - [30VUJ] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:22:05,245 - INFO - [30VUJ] Clipping by subtiles: 80
+2025-05-08 12:22:05,264 - INFO - [30VUJ] Null intersection with subtile 0
+2025-05-08 12:22:05,279 - INFO - [30VUJ] Null intersection with subtile 1
+2025-05-08 12:22:05,294 - INFO - [30VUJ] Null intersection with subtile 2
+2025-05-08 12:22:05,309 - INFO - [30VUJ] Null intersection with subtile 3
+2025-05-08 12:22:05,325 - INFO - [30VUJ] Null intersection with subtile 4
+2025-05-08 12:22:05,340 - INFO - [30VUJ] Null intersection with subtile 5
+2025-05-08 12:22:05,356 - INFO - [30VUJ] Null intersection with subtile 6
+2025-05-08 12:22:05,371 - INFO - [30VUJ] Null intersection with subtile 7
+2025-05-08 12:22:05,386 - INFO - [30VUJ] Null intersection with subtile 8
+2025-05-08 12:22:05,402 - INFO - [30VUJ] Null intersection with subtile 9
+2025-05-08 12:22:05,417 - INFO - [30VUJ] Null intersection with subtile 10
+2025-05-08 12:22:05,432 - INFO - [30VUJ] Null intersection with subtile 11
+2025-05-08 12:22:05,447 - INFO - [30VUJ] Null intersection with subtile 12
+2025-05-08 12:22:11,358 - INFO - [30VUJ] Null intersection with subtile 23
+2025-05-08 12:22:17,265 - INFO - [30VUJ] Null intersection with subtile 35
+2025-05-08 12:22:37,234 - INFO - [30VUJ] Null intersection with subtile 58
+2025-05-08 12:22:43,389 - INFO - [30VUJ] Null intersection with subtile 68
+2025-05-08 12:22:43,404 - INFO - [30VUJ] Null intersection with subtile 69
+2025-05-08 12:22:48,982 - INFO - [30VUJ] Null intersection with subtile 75
+2025-05-08 12:22:50,871 - INFO - [30VUJ] Combining datasets
+2025-05-08 12:22:51,476 - INFO - [30VUJ] Saving data cube
+2025-05-08 12:22:52,503 - INFO - [30VUK] Loading Sentinel-2 derivations...
+2025-05-08 12:22:52,587 - INFO - [30VUK] Creating masks...
+2025-05-08 12:22:55,107 - INFO - [30VUK] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:22:59,074 - INFO - [30VUK] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:22:59,205 - INFO - [30VUK] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:22:59,335 - INFO - [30VUK] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:22:59,465 - INFO - [30VUK] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:23:01,262 - INFO - [30VUK] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:23:01,395 - INFO - [30VUK] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:23:03,180 - INFO - [30VUK] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:23:05,032 - INFO - [30VUK] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:23:05,162 - INFO - [30VUK] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:23:05,292 - INFO - [30VUK] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:23:07,064 - INFO - [30VUK] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:23:07,194 - INFO - [30VUK] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:23:07,324 - INFO - [30VUK] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:23:07,455 - INFO - [30VUK] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:23:07,586 - INFO - [30VUK] Clipping by subtiles: 74
+2025-05-08 12:23:07,613 - INFO - [30VUK] Null intersection with subtile 0
+2025-05-08 12:23:07,631 - INFO - [30VUK] Null intersection with subtile 1
+2025-05-08 12:23:07,650 - INFO - [30VUK] Null intersection with subtile 2
+2025-05-08 12:23:07,668 - INFO - [30VUK] Null intersection with subtile 3
+2025-05-08 12:23:07,687 - INFO - [30VUK] Null intersection with subtile 4
+2025-05-08 12:23:07,705 - INFO - [30VUK] Null intersection with subtile 5
+2025-05-08 12:23:07,724 - INFO - [30VUK] Null intersection with subtile 6
+2025-05-08 12:23:07,742 - INFO - [30VUK] Null intersection with subtile 7
+2025-05-08 12:23:07,761 - INFO - [30VUK] Null intersection with subtile 8
+2025-05-08 12:23:17,407 - INFO - [30VUK] Null intersection with subtile 19
+2025-05-08 12:23:23,399 - INFO - [30VUK] Null intersection with subtile 26
+2025-05-08 12:23:26,044 - INFO - [30VUK] Null intersection with subtile 30
+2025-05-08 12:24:13,787 - INFO - [30VUK] Null intersection with subtile 72
+2025-05-08 12:24:13,805 - INFO - [30VUK] Null intersection with subtile 73
+2025-05-08 12:24:14,321 - INFO - [30VUK] Combining datasets
+2025-05-08 12:24:15,303 - INFO - [30VUK] Saving data cube
+2025-05-08 12:24:16,310 - INFO - [30VVK] Loading Sentinel-2 derivations...
+2025-05-08 12:24:16,413 - INFO - [30VVK] Creating masks...
+2025-05-08 12:24:18,804 - INFO - [30VVK] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:24:22,549 - INFO - [30VVK] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:24:22,679 - INFO - [30VVK] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:24:22,810 - INFO - [30VVK] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:24:22,940 - INFO - [30VVK] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:24:24,597 - INFO - [30VVK] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:24:24,727 - INFO - [30VVK] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:24:26,566 - INFO - [30VVK] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:24:26,696 - INFO - [30VVK] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:24:28,242 - INFO - [30VVK] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:24:28,373 - INFO - [30VVK] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:24:30,192 - INFO - [30VVK] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:24:31,776 - INFO - [30VVK] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:24:31,906 - INFO - [30VVK] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:24:32,036 - INFO - [30VVK] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:24:32,166 - INFO - [30VVK] Clipping by subtiles: 67
+2025-05-08 12:24:34,854 - INFO - [30VVK] Null intersection with subtile 5
+2025-05-08 12:24:38,371 - INFO - [30VVK] Null intersection with subtile 11
+2025-05-08 12:24:41,781 - INFO - [30VVK] Null intersection with subtile 16
+2025-05-08 12:24:49,227 - INFO - [30VVK] Null intersection with subtile 22
+2025-05-08 12:24:54,791 - INFO - [30VVK] Null intersection with subtile 29
+2025-05-08 12:25:01,973 - INFO - [30VVK] Null intersection with subtile 37
+2025-05-08 12:25:30,722 - INFO - [30VVK] Null intersection with subtile 66
+2025-05-08 12:25:31,213 - INFO - [30VVK] Combining datasets
+2025-05-08 12:25:32,105 - INFO - [30VVK] Saving data cube
+2025-05-08 12:25:33,130 - INFO - [30VVL] Loading Sentinel-2 derivations...
+2025-05-08 12:25:33,279 - INFO - [30VVL] Creating masks...
+2025-05-08 12:25:35,676 - INFO - [30VVL] Creating point bubble layer for habtype Zostera beds.
+2025-05-08 12:25:38,928 - INFO - [30VVL] Creating point bubble layer for habtype Lophelia pertusa reefs.
+2025-05-08 12:25:39,048 - INFO - [30VVL] Creating point bubble layer for habtype Carbonate mounds.
+2025-05-08 12:25:39,168 - INFO - [30VVL] Creating point bubble layer for habtype Coral gardens.
+2025-05-08 12:25:39,289 - INFO - [30VVL] Creating point bubble layer for habtype Sea-pen and burrowing megafauna communities.
+2025-05-08 12:25:40,821 - INFO - [30VVL] Creating point bubble layer for habtype Deep-sea sponge aggregations.
+2025-05-08 12:25:40,941 - INFO - [30VVL] Creating point bubble layer for habtype Kelp forests.
+2025-05-08 12:25:42,541 - INFO - [30VVL] Creating point bubble layer for habtype Maerl beds.
+2025-05-08 12:25:44,193 - INFO - [30VVL] Creating point bubble layer for habtype Intertidal Mytilus edulis beds on mixed and sandy sediments.
+2025-05-08 12:25:44,314 - INFO - [30VVL] Creating point bubble layer for habtype Ostrea edulis beds.
+2025-05-08 12:25:44,434 - INFO - [30VVL] Creating point bubble layer for habtype Modiolus modiolus horse mussel beds.
+2025-05-08 12:25:46,056 - INFO - [30VVL] Creating point bubble layer for habtype Intertidal mudflats.
+2025-05-08 12:25:46,176 - INFO - [30VVL] Creating point bubble layer for habtype Seamounts.
+2025-05-08 12:25:46,296 - INFO - [30VVL] Creating point bubble layer for habtype Sabellaria spinulosa reefs.
+2025-05-08 12:25:46,416 - INFO - [30VVL] Creating point bubble layer for habtype Littoral chalk communities.
+2025-05-08 12:25:46,538 - INFO - [30VVL] Clipping by subtiles: 62
+2025-05-08 12:25:46,564 - INFO - [30VVL] Null intersection with subtile 0
+2025-05-08 12:25:47,532 - INFO - [30VVL] Null intersection with subtile 2
+2025-05-08 12:25:47,932 - INFO - [30VVL] Null intersection with subtile 4
+2025-05-08 12:25:50,664 - INFO - [30VVL] Null intersection with subtile 8
+2025-05-08 12:25:54,142 - INFO - [30VVL] Null intersection with subtile 12
+2025-05-08 12:26:18,013 - INFO - [30VVL] Null intersection with subtile 33
+2025-05-08 12:26:34,801 - INFO - [30VVL] Null intersection with subtile 54
+2025-05-08 12:26:34,819 - INFO - [30VVL] Null intersection with subtile 55
+2025-05-08 12:26:34,836 - INFO - [30VVL] Null intersection with subtile 56
+2025-05-08 12:26:34,853 - INFO - [30VVL] Null intersection with subtile 57
+2025-05-08 12:26:34,870 - INFO - [30VVL] Null intersection with subtile 58
+2025-05-08 12:26:34,887 - INFO - [30VVL] Null intersection with subtile 59
+2025-05-08 12:26:34,905 - INFO - [30VVL] Null intersection with subtile 60
+2025-05-08 12:26:34,922 - INFO - [30VVL] Null intersection with subtile 61
+2025-05-08 12:26:35,335 - INFO - [30VVL] Combining datasets
+2025-05-08 12:26:35,856 - INFO - [30VVL] Saving data cube
+2025-05-08 12:26:36,620 - INFO - [30VWL] Loading Sentinel-2 derivations...
+2025-05-08 12:26:36,668 - INFO - [30VWL] Creating masks...
+2025-05-08 12:26:38,690 - INFO - [30VWL] Creating point bubble layer for habtype Zostera beds.
